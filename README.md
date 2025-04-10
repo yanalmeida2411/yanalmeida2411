@@ -1,5 +1,5 @@
 <h1 align="center">Yan Monteiro 👨‍💻</h1>
-<p align="center">Desenvolvedor Fullstack com foco em aplicações modernas e performáticas</p>
+<p align="center">Desenvolvedor Fullstack </p>
 
 ---
 ## 👨‍💻 Sobre mim
