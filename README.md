@@ -14,7 +14,6 @@ Sou Desenvolvedor Fullstack com foco em tecnologias modernas para web. Trabalho 
 
 Além das habilidades técnicas, sou **fluente em inglês**, o que me permite trabalhar com documentações, cursos internacionais e comunicação em projetos globais.
 
-Sempre buscando melhorar, aprender e aplicar boas práticas no desenvolvimento de soluções eficientes e escaláveis.
 ---
 ### 🚀 Stacks que utilizo
 
