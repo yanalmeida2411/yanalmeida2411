@@ -2,7 +2,7 @@
 <p align="center">Desenvolvedor Fullstack </p>
 
 ---
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre
 
 Sou Desenvolvedor Fullstack com foco em tecnologias modernas para web. Trabalho com:
 
@@ -12,10 +12,9 @@ Sou Desenvolvedor Fullstack com foco em tecnologias modernas para web. Trabalho 
 - **PostgreSQL** e **MySQL** como bancos de dados relacionais
 - **HTML**, **CSS** e **Git** para desenvolvimento e versionamento
 
-Além das habilidades técnicas, sou **fluente em inglês**, o que me permite trabalhar com documentações, cursos internacionais e comunicação em projetos globais.
-
+Também sou fluente em inglês, o que facilita o uso de documentações, cursos internacionais e a colaboração em projetos globais.
 ---
-### 🚀 Stacks que utilizo
+### 🚀 Experiência com as tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,postgres,mysql,git" />
