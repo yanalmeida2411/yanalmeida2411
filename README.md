@@ -1,5 +1,5 @@
 <h1 align="center">Yan Monteiro 👨‍💻</h1>
-<p align="center">Desenvolvedor Fullstack </p>
+<h2 align="center">Desenvolvedor Fullstack </h2>
 
 ---
 ### 🚀 Experiência com as tecnologias
