@@ -5,7 +5,7 @@
 ### 🚀 Experiência com as tecnologias
 
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,postgres,mysql,git" /> 
+  <img src="https://skillicons.dev/icons?i=html,tailwindcss,js,ts,react,nextjs,nestjs,postgres,mysql,git" /> 
 </div>
 
 ---
