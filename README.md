@@ -25,14 +25,6 @@
 🔗 Integração com APIs REST  
 
 ---
-
-### 🌟 Projetos em destaque
-
-- ✂️ [Sistema de Agendamento para Barbeiros](https://github.com/yanalmeida2411/sistema-agendamento): Plataforma de agendamentos com Next.js no frontend e NestJS no backend.
-- 📦 [Controle de Estoque](https://github.com/yanalmeida2411/controle-estoque): Sistema de gerenciamento de produtos com autenticação, dashboard e controle de entrada/saída.
-
----
-
 ### 📊 Estatísticas GitHub
 
 <p align="center">
