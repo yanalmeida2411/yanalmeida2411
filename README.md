@@ -18,9 +18,9 @@
 ⚛️ React com Zustand e Redux para controle de estados  
 💡 JavaScript e TypeScript como linguagens principais  
 🌐 Next.js para aplicações fullstack modernas  
-🚀 NodeJS e NestJS como framework backend robusto e escalável  
+🚀 NodeJS e NestJS como framework backend
 🗃️ Banco de dados: PostgreSQL e MySQL  
-🎨 Estilização com CSS3  
+🎨 Estilização com Tailwind CSS  
 🛠️ Versionamento com Git  
 🔗 Integração com APIs REST  
 
