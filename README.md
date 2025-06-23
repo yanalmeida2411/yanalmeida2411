@@ -31,16 +31,17 @@ Linguagens & Tecnologias: *`Next.js`*,*`TypeScript`*,*`Tailwind`*,*`Zustand`*,`G
 <h3> Formação Acadêmica </h3>
 
 
-[<img align="left" height="90px" width="90px" style="border-radius: 12px"  alt="estacio" src="./img/Estacio.png"/>](https://www.estacio.com.br/)
-**Análise e Desenvolvimento de Sistemas** \
-[**Estácio**](https://www.estacio.com.br/) • Graduação \
-Linguagens & Tecnologias: *`Html`*,*`Css`*,*`JavaScript`*,*`TypeScript`*,*`React`*,*`Zustand`*,*`Redux`*,*`Sql`*,*`NoSql`*.\
+[<img align="left" height="90px" width="90px" style="border-radius: 12px; margin-right: 12px;" alt="estacio" src="./img/Estacio.png"/>](https://www.estacio.com.br/)  
+**Análise e Desenvolvimento de Sistemas**  
+[**Estácio**](https://www.estacio.com.br/) • Graduação  
+Linguagens & Tecnologias: *`Html`*, *`Css`*, *`JavaScript`*, *`TypeScript`*, *`React`*, *`Zustand`*, *`Redux`*, *`Sql`*, *`NoSql`*.  
+<br clear="left"/>
 
-[<img align="left" height="90px" width="90px" style="border-radius:12px; margin-top:18px;"  alt="curso de inglês" src="./img/ccaa-logo.png"/>](https://www.ccaa.com.br/) 
-<br/> 
-**Curso de Inglês - Formação Completa**   
-[**CCAA**](https://www.ccaa.com.br/)   
-Habilidades Desenvolvidas: *`Leitura`*, *`Escrita`*, *`Conversação`*, *`Gramática`*, *`Tradução`*, *`Interpretação de Texto`*.
+[<img align="left" height="90px" width="90px" style="border-radius: 12px; margin-right: 12px;" alt="curso de inglês" src="./img/ccaa-logo.png"/>](https://www.ccaa.com.br/)  
+**Curso de Inglês - Formação Completa**  
+[**CCAA**](https://www.ccaa.com.br/)  
+Habilidades Desenvolvidas: *`Leitura`*, *`Escrita`*, *`Conversação`*, *`Gramática`*, *`Tradução`*, *`Interpretação de Texto`*.  
+<br clear="left"/>
 
 <h1></h1>
 
