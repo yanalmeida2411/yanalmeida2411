@@ -10,35 +10,40 @@
 
 <br/>
 
-## Experiência de trabalho
+<h3> Experiência de trabalho </h3>
 
-[<img align="left" height="94px" width="94px" alt="Metis" src="./img/Metis.png"/>](https://www.linkedin.com/company/equipemetis/posts/?feedView=all)
+[<img align="left" height="90px" width="90px" style="border-radius: 12px" alt="Metis" src="./img/Metis.png"/>](https://www.linkedin.com/company/equipemetis/posts/?feedView=all)
 **Desenvolvedor Front end** \
 [**Metis**](https://www.linkedin.com/company/equipemetis/posts/?feedView=all) • Voluntario \
-Linguagens & Tecnologias: *`Next.js`*,*`TypeScript`*, *`Tailwind`*,*`Git`*,*`GitHub`*,.\
+Linguagens & Tecnologias: *`Next.js`*,*`TypeScript`*, *`Tailwind`*,*`Zustand`*,*`Git`*,*`GitHub`*,.\
 Projetos em destaque: [`Educagil`]()
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Pipoca agil" src="./img/Vector.png"/>](https://pipocaagil.com.br/)
+[<img align="left" height="90px" width="90px" style="border-radius: 12px;" alt="Pipoca agil" src="./img/Vector.png"/>](https://pipocaagil.com.br/)
 
 **Desenvolvedor Front end** \
 [**Pipoca Agil**](https://pipocaagil.com.br/) • Freelance \
-Linguagens & Tecnologias: *`Next.js`*,*`TypeScript`*,*`Tailwind`*,`Git`*,*`GitHub` .\
-Projetos em destaque: [`Educagil`]()
+Linguagens & Tecnologias: *`Next.js`*,*`TypeScript`*,*`Tailwind`*,*`Zustand`*,`Git`*,*`GitHub` .\
 <br/>
+<h1></h1>
 
-## Formação Acadêmica
+<h3> Formação Acadêmica </h3>
 
-Na visão geral abaixo você encontrará meus cursos e especializaçoes mais recente:
 
-[<img align="left" height="94px" width="94px" alt="xpe" src="./img/Estacio.png"/>](https://www.estacio.com.br/)
+[<img align="left" height="90px" width="90px" style="border-radius: 12px"  alt="estacio" src="./img/Estacio.png"/>](https://www.estacio.com.br/)
 **Análise e Desenvolvimento de Sistemas** \
-[**Estácio**](https://www.xpeducacao.com.br/) • Graduação \
-Linguagens & Tecnologias: *`Html`*,*`Css`*,*`JavaScript`*,*`React`*,*`Sql`*,*`NoSql`*.\
+[**Estácio**](https://www.estacio.com.br/) • Graduação \
+Linguagens & Tecnologias: *`Html`*,*`Css`*,*`JavaScript`*,*`TypeScript`*,*`React`*,*`Zustand`*,*`Redux`*,*`Sql`*,*`NoSql`*.\
+
+[<img align="left" height="90px" width="90px" style="border-radius:12px; margin-top:18px;"  alt="curso de inglês" src="./img/ccaa-logo.png"/>](https://www.ccaa.com.br/)  
+**Curso de Inglês - Formação Completa**   
+[**CCAA**](https://www.ccaa.com.br/)   
+Habilidades Desenvolvidas: *`Leitura`*, *`Escrita`*, *`Conversação`*, *`Gramática`*, *`Tradução`*, *`Interpretação de Texto`*.
+<h1></h1>
 
 
-## 🚀 Experiência com as tecnologias
+<h3> Experiência com as tecnologias </h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
@@ -52,21 +57,24 @@ Linguagens & Tecnologias: *`Html`*,*`Css`*,*`JavaScript`*,*`React`*,*`Sql`*,*`No
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="50" style="filter: invert(44%) sepia(93%) saturate(1307%) hue-rotate(165deg) brightness(98%) contrast(95%)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
 </p>
+<h1></h1>
 
 
-## 💡 Conhecimentos em destaque
+<h3> Conhecimentos em destaque</h3>
 
-- ⚛️ React com Zustand e Redux para controle de estados  
-- 💻 JavaScript e TypeScript como linguagens principais  
-- 🚀 ReactJS e NextJS para aplicações fullstack modernas  
-- 🔧 NodeJS e NestJS como frameworks backend  
-- 🛢️ Banco de dados: PostgreSQL e MySQL  
-- 🎨 Estilização com Tailwind CSS  
-- 🛠️ Versionamento com Git  
-- 🔌 Integração com APIs REST  
+-  React com Zustand e Redux para controle de estados  
+-  JavaScript e TypeScript como linguagens principais  
+-  ReactJS e NextJS para aplicações fullstack modernas  
+-  NodeJS e NestJS como frameworks backend  
+-  Banco de dados: PostgreSQL e MySQL  
+-  Estilização com Tailwind CSS  
+-  Versionamento com Git  
+-  Integração com APIs REST  
+
+<h1></h1>
 
 
-## 📊 Estatísticas GitHub
+<h3> Estatísticas GitHub</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanalmeida2411&layout=compact&theme=tokyonight"/>
