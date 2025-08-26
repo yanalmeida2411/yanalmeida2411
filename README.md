@@ -63,10 +63,10 @@ Habilidades Desenvolvidas: *`Leitura`*, *`Escrita`*, *`Conversação`*, *`Gramá
 
 
 <h3> Conhecimentos em destaque</h3>
-
+-  React Native para Desenvolvimento Mobile
 -  React com Zustand e Redux para controle de estados  
 -  JavaScript e TypeScript como linguagens principais  
--  ReactJS e NextJS para aplicações fullstack modernas  
+-  NextJS para aplicações fullstack modernas  
 -  NodeJS e NestJS como frameworks backend  
 -  Banco de dados: PostgreSQL e MySQL  
 -  Estilização com Tailwind CSS  
