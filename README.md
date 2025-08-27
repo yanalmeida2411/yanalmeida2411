@@ -5,7 +5,7 @@
 
 <p align="center" style="font-size: 16px;">
   Desenvolvedor apaixonado por criar soluções completas e funcionais com foco em performance e experiência do usuário. <br/>
-  Trabalho com aplicações modernas tanto no frontend quanto no backend, utilizando tecnologias como ReactJS, NextJS, NodeJS e NestJS.
+  Trabalho com aplicações modernas tanto no frontend quanto no backend, utilizando tecnologias como React Native, React, NextJS, NodeJS e NestJS.
 </p>
 
 <br/>
