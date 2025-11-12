@@ -12,7 +12,7 @@
 
 <h3> Experiência de trabalho </h3>
 
-[<img align="left" height="90px" width="90px" style="border-radius: 12px" alt="Metis" src="./img/qa_coders_academy_logo.png"/>](https://www.linkedin.com/company/qa-coders-academy/posts/?feedView=all)
+[<img align="left" height="90px" width="90px" style="border-radius: 12px" alt="Metis" src="./img/qa_coders_academy_logo.jpg"/>](https://www.linkedin.com/company/qa-coders-academy/posts/?feedView=all)
 **Desenvolvedor Front end** \
 [**Qa Coders**](https://www.linkedin.com/company/equipemetis/posts/?feedView=all) • Estágio \
 Linguagens & Tecnologias: _`Next.js`_,_`TypeScript`_, _`Tailwind`_,_`Git`_,_`GitHub`_,_`React Hook Form`_,_`Zod`_.\
