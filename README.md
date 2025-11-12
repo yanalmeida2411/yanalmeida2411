@@ -26,15 +26,6 @@ Linguagens & Tecnologias: _`Next.js`_,_`TypeScript`_, _`Tailwind`_,_`Zustand`_,_
 Projetos em destaque: [`Educagil`]()
 <br/>
 
-[<img align="left" height="90px" width="90px" style="border-radius: 12px;" alt="Pipoca agil" src="./img/Vector.png"/>](https://pipocaagil.com.br/)
-
-**Desenvolvedor Front end** \
-[**Pipoca Agil**](https://pipocaagil.com.br/) • Freelance \
-Linguagens & Tecnologias: _`Next.js`_,_`TypeScript`_,_`Tailwind`_,_`Zustand`_,`Git`_,_`GitHub` .\
-<br/>
-
-<h1></h1>
-
 <h3> Formação Acadêmica </h3>
 
 [<img align="left" height="90px" width="90px" style="border-radius: 12px; margin-right: 12px;" alt="estacio" src="./img/Estacio.png"/>](https://www.estacio.com.br/)  
