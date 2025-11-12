@@ -12,35 +12,41 @@
 
 <h3> Experiência de trabalho </h3>
 
+[<img align="left" height="90px" width="90px" style="border-radius: 12px" alt="Metis" src="./img/qa_coders_academy_logo.png"/>](https://www.linkedin.com/company/qa-coders-academy/posts/?feedView=all)
+**Desenvolvedor Front end** \
+[**Qa Coders**](https://www.linkedin.com/company/equipemetis/posts/?feedView=all) • Estágio \
+Linguagens & Tecnologias: _`Next.js`_,_`TypeScript`_, _`Tailwind`_,_`Git`_,_`GitHub`_,_`React Hook Form`_,_`Zod`_.\
+Projetos em destaque: [`Conectando Leitores`]()
+<br/>
+
 [<img align="left" height="90px" width="90px" style="border-radius: 12px" alt="Metis" src="./img/Metis.png"/>](https://www.linkedin.com/company/equipemetis/posts/?feedView=all)
 **Desenvolvedor Front end** \
 [**Metis**](https://www.linkedin.com/company/equipemetis/posts/?feedView=all) • Voluntario \
-Linguagens & Tecnologias: *`Next.js`*,*`TypeScript`*, *`Tailwind`*,*`Zustand`*,*`Git`*,*`GitHub`*,.\
+Linguagens & Tecnologias: _`Next.js`_,_`TypeScript`_, _`Tailwind`_,_`Zustand`_,_`Git`_,_`GitHub`_,.\
 Projetos em destaque: [`Educagil`]()
 <br/>
-
 
 [<img align="left" height="90px" width="90px" style="border-radius: 12px;" alt="Pipoca agil" src="./img/Vector.png"/>](https://pipocaagil.com.br/)
 
 **Desenvolvedor Front end** \
 [**Pipoca Agil**](https://pipocaagil.com.br/) • Freelance \
-Linguagens & Tecnologias: *`Next.js`*,*`TypeScript`*,*`Tailwind`*,*`Zustand`*,`Git`*,*`GitHub` .\
+Linguagens & Tecnologias: _`Next.js`_,_`TypeScript`_,_`Tailwind`_,_`Zustand`_,`Git`_,_`GitHub` .\
 <br/>
+
 <h1></h1>
 
 <h3> Formação Acadêmica </h3>
 
-
 [<img align="left" height="90px" width="90px" style="border-radius: 12px; margin-right: 12px;" alt="estacio" src="./img/Estacio.png"/>](https://www.estacio.com.br/)  
 **Análise e Desenvolvimento de Sistemas**  
 [**Estácio**](https://www.estacio.com.br/) • Graduação  
-Linguagens & Tecnologias: *`Html`*, *`Css`*, *`JavaScript`*, *`TypeScript`*, *`React`*, *`Zustand`*, *`Redux`*, *`Sql`*, *`NoSql`*.  
+Linguagens & Tecnologias: _`Html`_, _`Css`_, _`JavaScript`_, _`TypeScript`_, _`React`_, _`Zustand`_, _`Redux`_, _`Sql`_, _`NoSql`_, _`JAVA`_, _`Python`_.  
 <br clear="left"/>
 
 [<img align="left" height="90px" width="90px" style="border-radius: 12px; margin-right: 12px;" alt="curso de inglês" src="./img/ccaa-logo.png"/>](https://www.ccaa.com.br/)  
 **Curso de Inglês - Formação Completa**  
 [**CCAA**](https://www.ccaa.com.br/)  
-Habilidades Desenvolvidas: *`Leitura`*, *`Escrita`*, *`Conversação`*, *`Gramática`*, *`Tradução`*, *`Interpretação de Texto`*.  
+Habilidades Desenvolvidas: _`Leitura`_, _`Escrita`_, _`Conversação`_, _`Gramática`_, _`Tradução`_, _`Interpretação de Texto`_.  
 <br clear="left"/>
 
 <h1></h1>
@@ -61,20 +67,18 @@ Habilidades Desenvolvidas: *`Leitura`*, *`Escrita`*, *`Conversação`*, *`Gramá
 </p>
 <h1></h1>
 
-
 <h3> Conhecimentos em destaque</h3>
 
--  React com Zustand e Redux para controle de estados  
--  JavaScript e TypeScript como linguagens principais  
--  ReactJS e NextJS para aplicações fullstack modernas  
--  NodeJS e NestJS como frameworks backend  
--  Banco de dados: PostgreSQL e MySQL  
--  Estilização com Tailwind CSS  
--  Versionamento com Git  
--  Integração com APIs REST  
+- React com Zustand e Redux para controle de estados
+- JavaScript e TypeScript como linguagens principais
+- ReactJS e NextJS para aplicações fullstack modernas
+- NodeJS e NestJS como frameworks backend
+- Banco de dados: PostgreSQL e MySQL
+- Estilização com Tailwind CSS
+- Versionamento com Git
+- Integração com APIs REST
 
 <h1></h1>
-
 
 <h3> Estatísticas GitHub</h3>
 
