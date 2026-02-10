@@ -13,10 +13,10 @@
 <h3> Experiência de trabalho </h3>
 
 [<img align="left" height="90px" width="90px" style="border-radius: 12px" alt="Metis" src="./img/qa_coders_academy_logo.jpg"/>](https://www.linkedin.com/company/qa-coders-academy/posts/?feedView=all)
-**Desenvolvedor Front end** \
+**Desenvolvedor Full Stack** \
 [**Qa Coders**](https://www.linkedin.com/company/equipemetis/posts/?feedView=all) • Estágio \
-Linguagens & Tecnologias: _`Next.js`_,_`TypeScript`_, _`Tailwind`_,_`Git`_,_`GitHub`_,_`React Hook Form`_,_`Zod`_.\
-Projetos em destaque: [`Conectando Leitores`]()
+Linguagens & Tecnologias: _`Next.js`_, _`React`_, _`TypeScript`_, _`Tailwind`_, _`React Hook Form`_, _`Zod`_, _`NestJS`_, _`Node.js`_, _`MongoDB`_, _`Mongoose`_, _`JWT`_, _`bcrypt`_, _`Swagger`_, _`Postman`_, _`Git`_, _`GitHub`_.\
+Projetos em destaque: [`Conectando Leitores`,`Alpha Play`]()
 <br/>
 
 [<img align="left" height="90px" width="90px" style="border-radius: 12px" alt="Metis" src="./img/Metis.png"/>](https://www.linkedin.com/company/equipemetis/posts/?feedView=all)
@@ -60,14 +60,16 @@ Habilidades Desenvolvidas: _`Leitura`_, _`Escrita`_, _`Conversação`_, _`Gramá
 
 <h3> Conhecimentos em destaque</h3>
 
-- React com Zustand e Redux para controle de estados
+- React com Zustand e Redux para gerenciamento de estado
 - JavaScript e TypeScript como linguagens principais
-- ReactJS e NextJS para aplicações fullstack modernas
-- NodeJS e NestJS como frameworks backend
+- ReactJS e NextJS para aplicações front end modernas
+- NodeJS e NestJS como frameworks back end
 - Banco de dados: PostgreSQL e MySQL
 - Estilização com Tailwind CSS
-- Versionamento com Git
-- Integração com APIs REST
+- Versionamento com Git e GitHub
+- Desenvolvimento e consumo de APIs REST
+- Arquitetura modular e boas práticas backend
+- Autenticação com JWT e Cookies
 
 <h1></h1>
 
