@@ -1,11 +1,11 @@
 <h3 align="center" style="font-size: 36px;">Yan Monteiro </h3>
 <p align="center" style="font-size: 20px;">
-  <strong>Desenvolvedor Fullstack</strong>
+  <strong>Desenvolvedor Full Stack</strong>
 </p>
 
 <p align="center" style="font-size: 16px;">
   Desenvolvedor apaixonado por criar soluções completas e funcionais com foco em performance e experiência do usuário. <br/>
-  Trabalho com aplicações modernas tanto no frontend quanto no backend, utilizando tecnologias como ReactJS, NextJS, NodeJS e NestJS.
+  Trabalho com aplicações modernas tanto no frontend quanto no backend, utilizando tecnologias como ReactJS, NextJS, NodeJS, NestJS e Java (Spring Boot).
 </p>
 
 <br/>
@@ -52,6 +52,7 @@ Habilidades Desenvolvidas: _`Leitura`_, _`Escrita`_, _`Conversação`_, _`Gramá
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" />
   <img src="https://nestjs.com/img/logo-small.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="50" style="filter: invert(44%) sepia(93%) saturate(1307%) hue-rotate(165deg) brightness(98%) contrast(95%)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
@@ -63,7 +64,7 @@ Habilidades Desenvolvidas: _`Leitura`_, _`Escrita`_, _`Conversação`_, _`Gramá
 - React com Zustand e Redux para gerenciamento de estado
 - JavaScript e TypeScript como linguagens principais
 - ReactJS e NextJS para aplicações front end modernas
-- NodeJS e NestJS como frameworks back end
+- NodeJS, NestJS e Java (Spring Boot) como tecnologias back end
 - Banco de dados: PostgreSQL e MySQL
 - Estilização com Tailwind CSS
 - Versionamento com Git e GitHub
