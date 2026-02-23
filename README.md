@@ -65,7 +65,7 @@ Habilidades Desenvolvidas: _`Leitura`_, _`Escrita`_, _`Conversação`_, _`Gramá
 - JavaScript e TypeScript como linguagens principais
 - ReactJS e NextJS para aplicações front end modernas
 - NodeJS, NestJS e Java (Spring Boot) como tecnologias back end
-- Banco de dados: PostgreSQL e MySQL
+- Banco de dados: PostgreSQL, MySQL e MongoDB
 - Estilização com Tailwind CSS
 - Versionamento com Git e GitHub
 - Desenvolvimento e consumo de APIs REST
